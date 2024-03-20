@@ -5,7 +5,7 @@
 Hello! I'm David, a dedicated Data Analyst with a strong foundation in statistics, mathematics, and programming, acquired from my studies at the Higher School of Economics. I'm passionate about leveraging data to uncover insights, optimize business processes, and inform decision-making. With hands-on experience in Python, SQL, and Tableau, I excel in analyzing complex datasets and delivering actionable intelligence.
 
 - 📚 **Education**: Bachelor's degree in Management, Higher School of Economics
-- 🎓 **Certifications**: Google Project Management Professional, Data Analytics at Karpov School
+- 🎓 **Certifications**: Data Analytics at Karpov School, Google Project Management Professional
 - 🌐 **Contact**: [LinkedIn](linkedin.com/in/grigorev-david) | dvgrigorev00@gmail.com | TG: @dvgrigorev
 
 ## 💻 Technical Skills
