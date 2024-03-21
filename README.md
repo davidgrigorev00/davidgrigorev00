@@ -46,8 +46,8 @@ Hello! I'm David, a dedicated Data Analyst with a strong foundation in statistic
 
 | Project Name | Project Description | Stack |
 | ------------ | ------------------- | ----- |
-| [Customer Behavior and Audience Segmentation](https://github.com/davidgrigorev00/da_projects/tree/main/Customer%20Behavior%20Project) | Analysis of customer behavior to identify patterns and segment the audience accordingly. | Python (Pandas, Numpy, Seaborn, Matplotlib) |
-| [User Experience Optimization in a Mobile Game](https://github.com/davidgrigorev00/da_projects) | Developed a function to calculate player retention and analyzed A/B test results for promotional offers. | Python (Pandas, Numpy, Seaborn, Matplotlib, Scipy.stats) |
+| [Customer Behavior and Audience Segmentation E-Commerce Project Analysis](https://github.com/davidgrigorev00/da_projects/tree/main/Customer%20Behavior%20Project) | Provided data-driven answers to key questions regarding user behavior, order delivery issues, product popularity by day of the week, user retention, and RFM segmentation for quality audience analysis. | Python (Pandas, Numpy, Seaborn, Matplotlib) |
+| [AppMetrics Insight](https://github.com/davidgrigorev00/da_projects) | Developed a function to calculate player retention and analyzed A/B test results for promotional offers. | Python (Pandas, Numpy, Seaborn, Matplotlib, Scipy.stats) |
 | [A/B Testing for Recommendation System](https://github.com/davidgrigorev00/da_projects) | Evaluated a new recommendation system through statistical comparison to decide on its implementation. | Python (Pandas, Pingouin, Numpy, Seaborn, Matplotlib, Scipy.stats, Statsmodels) |
 | [Avocado Sales Analysis in the USA](https://github.com/davidgrigorev00/da_projects) | Created a dashboard for analyzing avocado sales across the USA, highlighting key sales trends. | SQL (ClickHouse), Redash |
 | [HR Department Dashboard](https://github.com/davidgrigorev00/da_projects) | Built a dashboard for the HR department to effectively distribute bonuses among employees. | Tableau |
