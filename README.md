@@ -41,8 +41,7 @@ Hello! I'm David, a dedicated Data Analyst with a strong foundation in statistic
 
 ## 🚀 Projects
 
-### Project Activity As Data Analyst (Sept 2023 – Feb 2024)
-
+### Project Activity As Data Analyst (Sept 2023 – Apr 2024)
 
 | Project Name | Project Description | Stack |
 | ------------ | ------------------- | ----- |
@@ -51,8 +50,7 @@ Hello! I'm David, a dedicated Data Analyst with a strong foundation in statistic
 | [A/B Testing for Recommendation System](https://github.com/davidgrigorev00/portfolio_projects/tree/main/ab_testing) | Evaluated a new recommendation system through statistical comparison to decide on its implementation. | Python (Pandas, Pingouin, Numpy, Seaborn, Matplotlib, Scipy.stats, Statsmodels) |
 | [Avocado Sales Analysis in the USA](https://github.com/davidgrigorev00/portfolio_projects/tree/main/sales_of_avocado_analysis) | Created a dashboard for analyzing avocado sales across the USA, highlighting key sales trends. | SQL (ClickHouse), Redash |
 | [HR Department Dashboard](https://github.com/davidgrigorev00/portfolio_projects/tree/main/hr_department_dashboard) | Built a dashboard for the HR department to effectively distribute bonuses among employees. | Tableau |
-
-
+| [SQL Practice with PostgreSQL](https://github.com/davidgrigorev00/portfolio_projects/tree/main/sql_practice) | Demonstrated SQL skills through practical tasks using PostgreSQL, including analytics on user activity, product economics, and marketing metrics with visualizations in Redash. | SQL (PostgreSQL), Redash |
 
 
 
